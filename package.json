@@ -1,0 +1,21 @@
+{
+    "app_name": "Iceman (Val Kilmer) Typing Terminal",
+    "description": "Iceman Typing Emulator!",
+    "main": "C:\\Users\\nihal\\Downloads\\hs2\\index.html",
+    "name": "icemantype",
+    "version": "v1.0.0",
+    "webkit": {},
+    "window": {
+        "exe_icon": "C:\\Users\\nihal\\Downloads\\hs2\\thumb.png",
+        "frame": true,
+        "fullscreen": false,
+        "icon": "C:\\Users\\nihal\\Downloads\\hs2\\thumb.png",
+        "id": "hs2",
+        "mac_icon": "C:\\Users\\nihal\\Downloads\\hs2\\thumb.png",
+        "resizable": true,
+        "show": true,
+        "show_in_taskbar": true,
+        "title": "hs2",
+        "visible": true
+    }
+}
